@@ -12,7 +12,7 @@ export class ElementPolymer3 extends PolymerElement {
         background: #2A2B27;
         border: 3px solid #87F860;
         border-radius: 12px;
-        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        font-family: 'Lucida Sans Unicode';
         margin-bottom: 10px;
         align-items: center;
       }
